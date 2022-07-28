@@ -1,0 +1,8 @@
+##ANOTAÇÕES
+
+Limpar Tela: Ctrl + L
+Adiciona repositório local: git add .
+Sobe arquivo para Git: git commit -m "Texto de titulo aqui"
+Cola texto no Git Bash: Shift + INSERT
+
+
